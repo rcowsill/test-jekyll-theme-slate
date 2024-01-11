@@ -1,4 +1,4 @@
-remote_theme: rcowsill/jekyll-theme-slate@v0.2.0
+remote_theme: rcowsill/jekyll-theme-slate@v0.2.1-alpha
 optional_front_matter:
   remove_originals: true
 readme_index:
