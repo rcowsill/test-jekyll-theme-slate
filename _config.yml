@@ -1,0 +1,5 @@
+remote_theme: rcowsill/jekyll-theme-slate@v0.2.0
+optional_front_matter:
+  remove_originals: true
+readme_index:
+  remove_originals: true
